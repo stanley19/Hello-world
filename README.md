@@ -1,2 +1,2 @@
 # Hello-world
-Just new to github
+Just Trynna Master github features
